@@ -1,0 +1,1 @@
+result = computeValue(0.000021545215)
